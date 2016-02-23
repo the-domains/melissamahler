@@ -2,26 +2,26 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T00:20:25.553Z'
-dateModified: '2016-02-23T00:19:51.218Z'
+datePublished: '2016-02-23T00:36:24.935Z'
+dateModified: '2016-02-23T00:36:14.250Z'
 title: "Melissa Mahler, Esq.\_"
 author: []
+sourcePath: _posts/2016-02-23-melissa-mahler-esq.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-melissa-mahler-esq.md
-published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d515db7-e854-43e0-8944-1bb699e21f48.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eae921c45462af2ccff5c33b3c9ec562a0332b05.jpg)
 
 # Melissa Mahler, Esq.
