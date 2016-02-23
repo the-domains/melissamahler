@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T00:50:13.194Z'
-dateModified: '2016-02-23T00:39:58.600Z'
+datePublished: '2016-02-23T00:51:20.982Z'
+dateModified: '2016-02-23T00:51:12.142Z'
 title: "Melissa Mahler, Esq.\_"
 author: []
 sourcePath: _posts/2016-02-23-melissa-mahler-esq.md
@@ -23,5 +23,3 @@ _type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eae921c45462af2ccff5c33b3c9ec562a0332b05.jpg)
-
-# Melissa Mahler, Esq.
