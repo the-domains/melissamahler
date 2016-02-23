@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T00:36:24.935Z'
-dateModified: '2016-02-23T00:36:14.250Z'
+datePublished: '2016-02-23T00:38:49.608Z'
+dateModified: '2016-02-23T00:36:31.097Z'
 title: "Melissa Mahler, Esq.\_"
 author: []
 sourcePath: _posts/2016-02-23-melissa-mahler-esq.md
