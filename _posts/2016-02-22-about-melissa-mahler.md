@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Melissa Mahler '
-datePublished: '2016-02-25T17:05:35.797Z'
-dateModified: '2016-02-25T15:34:54.790Z'
-title: About Melissa Mahler
+datePublished: '2016-02-26T02:55:42.886Z'
+dateModified: '2016-02-26T02:53:34.458Z'
+title: "About\_"
 author: []
 sourcePath: _posts/2016-02-22-about-melissa-mahler.md
 published: true
@@ -22,7 +22,7 @@ url: about-melissa-mahler/index.html
 _type: WebPage
 
 ---
-# About Melissa Mahler
+# About 
 
 **Melissa Mahler** is a highly sought after strategist, lawyer and social impact entrepreneur. For over fifteen years she has advised C-Suite executives, boards of directors, investors and NGO's in negotiating complex transactions, advancing policy objectives and managing strategic and diverse relationships. She has collaborated with management teams on emerging technologies, closed financings and commercialized technology with universities, governments and Fortune 100 companies. ![Melissa Mahler, Esq.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/daa5f292522ad9766ca63b369c7131e72c5cc9d1.jpg)
 
