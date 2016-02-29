@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T11:37:49.780Z'
-dateModified: '2016-02-29T11:37:49.459Z'
+datePublished: '2016-02-29T15:27:00.400Z'
+dateModified: '2016-02-29T15:27:00.171Z'
 title: "Join my VIP list \_"
 author: []
 sourcePath: _posts/2016-02-28-sign-up-and-stay-connect.md
@@ -22,7 +22,7 @@ url: sign-up-and-stay-connect/index.html
 _type: Article
 
 ---
-![Melissa Mahler Subscription  ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/946396f3-776a-4b60-ba0d-6c814a8236ad.jpg)
+![Melissa Mahler Subscription  ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11298ce1dbad1f6c405af0464e475339176d0ec6.jpg)
 
 # Join my **VIP **list  
 
