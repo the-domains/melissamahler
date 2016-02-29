@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Melissa Mahler thoughts news and quotes.
-datePublished: '2016-02-29T16:14:53.415Z'
-dateModified: '2016-02-29T16:08:54.847Z'
+datePublished: '2016-02-29T16:15:03.369Z'
+dateModified: '2016-02-29T16:15:01.621Z'
 title: "Melissa's Blog"
 author: []
 sourcePath: _posts/2016-02-29-melissas-blog.md
