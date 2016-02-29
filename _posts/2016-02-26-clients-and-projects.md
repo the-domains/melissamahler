@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T04:55:29.392Z'
-dateModified: '2016-02-29T03:51:10.118Z'
+datePublished: '2016-02-29T16:19:44.796Z'
+dateModified: '2016-02-29T16:13:11.005Z'
 title: "Clients & Projects\_"
 author: []
 sourcePath: _posts/2016-02-26-clients-and-projects.md
