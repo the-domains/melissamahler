@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-29T03:08:54.181Z'
-dateModified: '2016-02-29T03:08:18.689Z'
-title: ' '
+datePublished: '2016-02-29T03:43:23.954Z'
+dateModified: '2016-02-29T03:43:16.511Z'
+title: "About\_"
 author: []
 sourcePath: _posts/2016-02-22-about-melissa-mahler.md
 published: true
@@ -23,8 +23,6 @@ _type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19299b60-2d20-4074-ba16-d9e60383dc99.jpg)
-
-# 
 
 # About 
 
