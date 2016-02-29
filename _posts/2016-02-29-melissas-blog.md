@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Melissa Mahler thoughts news and quotes.
-datePublished: '2016-02-29T16:24:34.976Z'
-dateModified: '2016-02-29T16:16:56.517Z'
+datePublished: '2016-02-29T16:32:54.452Z'
+dateModified: '2016-02-29T16:32:51.275Z'
 title: "Melissa's Blog"
 author: []
 sourcePath: _posts/2016-02-29-melissas-blog.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: melissas-blog/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Melissa's Blog
