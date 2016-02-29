@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T01:37:19.710Z'
-dateModified: '2016-02-29T01:35:19.687Z'
+datePublished: '2016-02-29T01:39:34.229Z'
+dateModified: '2016-02-29T01:39:00.222Z'
 title: "Join my VIP list \_"
 author: []
 sourcePath: _posts/2016-02-28-sign-up-and-stay-connect.md
