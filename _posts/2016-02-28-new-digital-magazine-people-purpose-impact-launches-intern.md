@@ -16,8 +16,8 @@ keywords:
   - ceo
   - magazine
 description: 'ROCHESTER, NY --(Marketwired - February 19, 2016) - People Purpose Impact, a major new international digital magazine, launches internationally today. The publication, featuring powerful storytelling and impactful imagery, was born out of a desire to tell stories about people and share ideas that spark conversations and inspire not only thought but also action.'
-datePublished: '2016-02-28T19:50:58.830Z'
-dateModified: '2016-02-28T19:50:40.078Z'
+datePublished: '2016-04-18T02:14:26.683Z'
+dateModified: '2016-04-18T02:14:26.381Z'
 author: []
 related: []
 app_links: []
