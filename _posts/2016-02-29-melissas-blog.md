@@ -3,21 +3,20 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Melissa Mahler thoughts news and quotes.
-datePublished: '2016-02-29T16:32:54.452Z'
-dateModified: '2016-02-29T16:32:51.275Z'
+description: ''
+datePublished: '2016-05-15T16:11:48.299Z'
+dateModified: '2016-05-15T16:08:57.065Z'
 title: "Melissa's Blog"
 author: []
 sourcePath: _posts/2016-02-29-melissas-blog.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: melissas-blog/index.html
 _type: WebPage
 
@@ -27,4 +26,14 @@ _type: WebPage
 
 ## Welcome
 
-ajfklajfklsajfkladsjfklasjfl
+# Helping the Smallest Ones
+
+> "There can be no keener revelation of a society's soul than the way in which it treats its children" said Nelson Mandela. 
+
+In this episode of Real Talk, Melissa Mahler speaks with Dr. Delaney Gracy, CMO of the Children's Health Fund who share's her insights in bringing health care to those most in need. For more information visit
+
+https://www.youtube.com/watch?v=4VLqE\_tdi\_U
+
+For more information visit [http://www.childrenshealthfund.org][0]
+
+[0]: Http://childrenshealthfund.org/
